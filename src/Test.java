@@ -8,6 +8,8 @@ public class Test {
 		
 		BigDecimal verybig = big.pow(2);
 		System.out.println(verybig);
+		System.out.println("sas");
+
 	}
 
 }
